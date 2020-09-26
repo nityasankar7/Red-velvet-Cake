@@ -1,2 +1,2 @@
 # Red-velvet-Cake
-Using git
+This is a  Red-Velvet-Cake recipe
